@@ -1,5 +1,5 @@
 ## My name's Dmitry Teterin 
-### i work to Netology 
+### i study to Netology 
 ![Моя фотография][def]
 
 [def]: /images/picture.jpg
